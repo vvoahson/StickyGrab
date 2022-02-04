@@ -1,0 +1,16 @@
+### INSTRUCTIONS: ###
+
+### NOTES: ###
+
+This does require local administrator rights on computer and will most-likely set off any EDR/Anti-Virus and a bunch of other security
+things... For that reason, don't suggest using it in a work environment without permission. Just here for demo, practice and PoC use.
+
+
+
+1) First grab the precompiled Binary for Windows Runtime SQlite assembly for your systems architecture off https://www.sqlite.org/download.html
+
+2) Provide the permissions for the dll file by changing it via Properties > Security > Allow Runtime.
+
+3) Create the path 'C:\temp' or change it to reflect the path where the assembly is. 
+
+3) Run application. 
